@@ -1,6 +1,5 @@
-package src.main.java.calculator;
+package src.main.java.calculator.problems;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 // 기사단원의 무기

@@ -1,9 +1,14 @@
 package src.main.java.calculator;
 
+import src.main.java.calculator.problems.N72;
+import src.main.java.calculator.problems.N72_hashMap;
+
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
-        N68 sol = new N68();
-        System.out.println(sol.solution(new int[]{2, 1, 1, 2, 3, 1, 2, 3, 1 , 1 , 2 , 3, 1}));
+        N72_hashMap sol = new N72_hashMap();
+        System.out.println(Arrays.toString(sol.solution(new String[]{"mumu", "soe", "poe", "kai", "mine"}, new String[]{"kai", "kai", "mine", "mine"})));
 
     }
 }

@@ -1,4 +1,4 @@
-package src.main.java.calculator;
+package src.main.java.calculator.problems;
 
 public class N67 {
     public String solution(String s, String skip, int index) {

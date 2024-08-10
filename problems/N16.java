@@ -1,4 +1,4 @@
-package src.main.java.calculator;
+package src.main.java.calculator.problems;
 
 public class N16 {
     public long[] solution(int x, int n) {

@@ -1,4 +1,4 @@
-package src.main.java.calculator;
+package src.main.java.calculator.problems;
 
 import java.util.Arrays;
 

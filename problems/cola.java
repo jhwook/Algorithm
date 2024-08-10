@@ -1,6 +1,4 @@
-package src.main.java.calculator;
-
-import org.w3c.dom.ls.LSOutput;
+package src.main.java.calculator.problems;
 
 import java.util.ArrayList;
 
