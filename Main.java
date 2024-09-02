@@ -1,8 +1,5 @@
 package src.main.java.calculator;
 
-import src.main.java.calculator.problems.N29;
-import src.main.java.calculator.problems.N69;
-import src.main.java.calculator.problems.N73;
 import src.main.java.calculator.problems.N74;
 
 import java.util.Arrays;
